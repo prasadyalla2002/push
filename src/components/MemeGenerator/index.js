@@ -29,6 +29,6 @@ const fontSizesOptionsList = [
   },
 ]
 
-const MemeGenerator = () => <h1>Git hub testing</h1>
+const MemeGenerator = () => <h1>Git hub testing number -2</h1>
 
 export default MemeGenerator
