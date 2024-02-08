@@ -28,3 +28,7 @@ const fontSizesOptionsList = [
     displayText: '32',
   },
 ]
+
+const MemeGenerator = () => <h1>Git hub testing</h1>
+
+export default MemeGenerator
